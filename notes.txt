@@ -1,0 +1,6 @@
+Day 1:
+- Git installed
+- Repo initialized
+
+Day 2:
+- Made my first push
